@@ -1,3 +1,5 @@
 {
-    "githubIssues.issueBranchTitle": "${Murtaza Ali}/issue${issueNumber}"
+    "githubIssues.issueBranchTitle": "${Murtaza Ali}/issue${issueNumber}",
+    "editor.tabCompletion": "on",
+    "diffEditor.codeLens": true
 }
